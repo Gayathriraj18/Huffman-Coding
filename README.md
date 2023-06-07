@@ -23,6 +23,8 @@ Print the characters and its huffmancode.
  
 ## Program:
 
+Developed by : Gayathri A
+Register Number : 212221230028
 ``` Python
 # Get the input String
 
